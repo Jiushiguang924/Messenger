@@ -31,6 +31,6 @@ public class ItemMessagePanel : BasePanel {
 
     public void OnClosePanel()
     {
-        UIManager.Instance.PopPanel();
+        UIManager.Instance.PopPanel();///
     }
 }
